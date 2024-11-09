@@ -1,7 +1,7 @@
 ## Привет, я Мишаня
 
 ### Обо мне
--  На данный момент перехожу с Python на Go.
+-  Пишу на Go
 -  Стремлюсь стать backend-разработчиком.
 ---------------------------------------
 ### Я использую
@@ -21,4 +21,5 @@
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff)](#)
 -----------------
 ### Статистика
+[![Stats](https://github-readme-stats.vercel.app/api?username=misshanya&show_icons=true&theme=dracula)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misshanya&layout=compact&theme=dracula)](#)
