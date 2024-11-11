@@ -1,21 +1,8 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Mishanya 🎓</strong></samp></h2>
-
+  
 <p align="center">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://readme-typing-svg.herokuapp.com?color=fff&center=true&lines=I+LOVE+OPEN+SOURCE
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://readme-typing-svg.herokuapp.com?color=000&center=true&lines=I+LOVE+OPEN+SOURCE
-    "
-  />
   <img
-    alt="Star History Chart"
-    src="https://readme-typing-svg.herokuapp.com?color=fff&center=true&lines=I+LOVE+OPEN+SOURCE"
+    src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=fff&center=true&lines=I+love+coding"
   />
 </p>
 
@@ -26,6 +13,9 @@
 - 🐳 Comfortable with **Docker** and **Podman**.
 - 🐧 **Linux** enthusiast, using **Fedora** as my main OS.
 - 🎨 Some frontend experience with **HTML, CSS, and JavaScript**.
+
+### ✉️ Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/misshanya7)
 
 ### 💻 Tech Stack
 
