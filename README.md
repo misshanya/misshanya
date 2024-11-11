@@ -1,6 +1,23 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Mishanya 🎓</strong></samp></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&center=true&lines=I+LOVE+OPEN+SOURCE)](https://git.io/typing-svg)
+<p align="center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://readme-typing-svg.herokuapp.com?color=fff&center=true&lines=I+LOVE+OPEN+SOURCE
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://readme-typing-svg.herokuapp.com?color=000&center=true&lines=I+LOVE+OPEN+SOURCE
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://readme-typing-svg.herokuapp.com?color=fff&center=true&lines=I+LOVE+OPEN+SOURCE"
+  />
+</p>
 
 ### 🚀 About Me
 
