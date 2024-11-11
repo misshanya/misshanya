@@ -1,6 +1,6 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Mishanya 🎓</strong></samp></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&center=true&lines=I+LOVE+OPEN+SOURCE)](https://git.io/typing-svg)
 
 ### 🚀 About Me
 
