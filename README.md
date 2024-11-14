@@ -41,4 +41,6 @@
 
 ### 🔥 Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misshanya&layout=compact&theme=dracula)](#)
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=misshanya&show_icons=true&theme=dracula)](#)
