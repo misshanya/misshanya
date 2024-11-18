@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I’m a 15-year-old student from Russia, passionate about **backend development**.
+- 👨‍💻 I’m a 15 y.o. student from Russia, passionate about **backend development**.
 - 🔧 Experienced in **Go** with some familiarity in **Python**.
 - 🐳 Comfortable with **Docker** and **Podman**.
 - 🐧 **Linux** enthusiast, using **Fedora** as my main OS.
