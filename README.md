@@ -1,4 +1,4 @@
-<h2 align='center'><samp><strong>Hi there 👋, I am Mishanya 🎓</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am Mishanya</strong></samp></h2>
   
 <p align="center">
   <img
@@ -8,11 +8,11 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I’m a 15 y.o. student from Russia, passionate about **backend development**.
-- 🔧 Experienced in **Go** and **Python**.
-- 🐳 Comfortable with **Docker** and **Podman**.
-- 🐧 **Linux** enthusiast, using **Fedora** as my main OS.
-- 🎨 Some frontend experience with **HTML, CSS, and JavaScript**.
+- I’m a 15 y.o. student from Russia, passionate about **backend development**.
+- Experienced in **Go** and **Python**.
+- Comfortable with **Docker** and **Podman**.
+- **Linux** enthusiast, using **Fedora** as my main OS.
+- Some frontend experience with **HTML, CSS, and JavaScript**.
 
 ### ✉️ Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/misshanya7)
