@@ -12,7 +12,7 @@
 - Experienced in **Go** and **Python**.
 - Comfortable with **Docker** and **Podman**.
 - **Linux** enthusiast, using **Fedora** as my main OS.
-- Some frontend experience with **HTML, CSS, and JavaScript**.
+- Some frontend experience with **Vanilla HTML, CSS, and JavaScript**.
 
 ### ✉️ Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/misshanya7)
