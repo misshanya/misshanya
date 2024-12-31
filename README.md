@@ -2,7 +2,7 @@
   
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=fff&center=true&lines=I+love+coding"
+    src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=fff&center=true&lines=Happy+New+Year;2025"
   />
 </p>
 
