@@ -1,10 +1,4 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Mishanya</strong></samp></h2>
-  
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=fff&center=true&lines=Happy+New+Year;2025"
-  />
-</p>
 
 ### 🚀 About Me
 
