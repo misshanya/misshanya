@@ -8,6 +8,9 @@
 - **Linux** enthusiast, using **Fedora** as my main OS.
 - Some frontend experience with **Vanilla HTML, CSS, and JavaScript**.
 
+### 📅 Events
+- [PROD 2025](https://prodcontest.ru) - Finalist. [Repository of individual tour](https://github.com/misshanya/PROD2025-final-individual)
+
 ### ✉️ Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/misshanya7)
 
