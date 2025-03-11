@@ -3,9 +3,9 @@
 ### 🚀 About Me
 
 - I’m a 15 y.o. student from Russia, passionate about **backend development**.
-- Experienced in **Go** and **Python**.
+- Love **Go**.
 - Comfortable with **Docker** and **Podman**.
-- **Linux** enthusiast, using **Fedora** as my main OS.
+- **Linux** enthusiast, using **Fedora** and **Arch** as my main OS.
 
 ### 📅 Events
 - [PROD 2025](https://prodcontest.ru) - Finalist. [Repository of individual tour](https://github.com/misshanya/PROD2025-final-individual)
