@@ -6,7 +6,6 @@
 - Experienced in **Go** and **Python**.
 - Comfortable with **Docker** and **Podman**.
 - **Linux** enthusiast, using **Fedora** as my main OS.
-- Some frontend experience with **Vanilla HTML, CSS, and JavaScript**.
 
 ### 📅 Events
 - [PROD 2025](https://prodcontest.ru) - Finalist. [Repository of individual tour](https://github.com/misshanya/PROD2025-final-individual)
