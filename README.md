@@ -5,7 +5,7 @@
 - I’m a 15 y.o. student from Russia, passionate about **backend development**.
 - Love **Go**.
 - Comfortable with **Docker** and **Podman**.
-- **Linux** enthusiast, using **Fedora** and **Arch** as my main OS.
+- **Linux** enthusiast, using **Fedora** and **NixOS** as my main OS.
 
 ### 📅 Events
 - [PROD 2025](https://prodcontest.ru) - Finalist. [Repository of individual tour](https://github.com/misshanya/PROD2025-final-individual)
@@ -26,6 +26,7 @@
 ### 🐧 OS
 
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=fff)](#)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](#)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 
