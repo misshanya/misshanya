@@ -8,7 +8,9 @@
 - **Linux** enthusiast, using **Fedora** and **NixOS** as my main OS.
 
 ### 📅 Events
-- [PROD 2025](https://prodcontest.ru) - Finalist. [Repository of individual tour](https://github.com/misshanya/PROD2025-final-individual)
+- [PROD 2025](https://prodcontest.ru) - Finalist
+  - [Repository of individual round](https://github.com/misshanya/PROD2025-final-individual)
+  - [Repository of team round](https://github.com/Central-University-IT-prod/2025-final-command-team-32-prod-final-team/)
 
 ### ✉️ Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/misshanya7)
