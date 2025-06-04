@@ -1,4 +1,4 @@
-<h2 align='center'><samp><strong>Hi there 👋, I am Mishanya</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am Mishanya</strong></samp> <img height="15px" src="./assets/gopher-header.png"></h2>
 
 ### 🚀 About Me
 
