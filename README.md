@@ -8,9 +8,11 @@
 - **Linux** enthusiast, using **Fedora** and **NixOS** as my main OS.
 
 ### ✉️ Connect with me
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/misshanya7)
 
 ### 📅 Events
+
 - [PROD 2025](https://prodcontest.ru) - Finalist
   - [Repository of individual round](https://github.com/misshanya/PROD2025-final-individual)
   - [Repository of team round](https://github.com/Central-University-IT-prod/2025-final-command-team-32-prod-final-team/)
@@ -44,3 +46,6 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=misshanya&show_icons=true&theme=dracula)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misshanya&layout=compact&theme=dracula)](#)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
