@@ -45,8 +45,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/6c2e820c-673b-4690-9190-7b15c368b37f.svg?style=for-the-badge)](https://wakatime.com/@misshanya)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=misshanya&show_icons=true&theme=dracula)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misshanya&layout=compact&theme=dracula)](#)
+[![Stats](https://github-readme-stats.misshanya.ru/api?username=misshanya&show_icons=true&theme=dracula)](#)
+[![Top Langs](https://github-readme-stats.misshanya.ru/api/top-langs/?username=misshanya&layout=compact&theme=dracula)](#)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
