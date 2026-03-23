@@ -14,9 +14,12 @@
 
 ### 📅 Events
 
-- [PROD 2025](https://prodcontest.ru) - Finalist
+- [PROD 2025](https://prodcontest.com) - Finalist
   - [Repository of individual round](https://github.com/misshanya/PROD2025-final-individual)
   - [Repository of team round](https://github.com/Central-University-IT-prod/2025-final-command-team-32-prod-final-team/)
+
+- [PROD 2026](https://prodcontest.com) - Finalist
+  - [Repository of individual round](https://github.com/misshanya/prod2026-final-individual)
 
 ### 💻 Tech Stack
 
