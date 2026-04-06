@@ -2,11 +2,11 @@
 
 ### 🚀 About Me
 
-- I’m a 16 y.o. student from Russia, passionate about **backend development**.
-- Love **Go**.
-- Really love complex systems.
-- Comfortable with **Docker** and **Podman**.
-- **Linux** enthusiast, using **Fedora** and **NixOS** as my main OS.
+- I’m a 16 y.o. student from Russia, passionate about **backend development**
+- Love **Go**
+- Really love complex systems
+- K3s enjoyer
+- Using **Fedora** and **NixOS** as my main OS
 
 ### ✉️ Connect with me
 
@@ -27,6 +27,7 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
 [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3)
 [![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)](https://grafana.com)
