@@ -53,46 +53,5 @@
 [![Top Langs](https://github-readme-stats.misshanya.ru/api/top-langs/?username=misshanya&layout=compact&theme=dracula)](#)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                209 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-🌆 Daytime                1388 commits        ██████████░░░░░░░░░░░░░░░   39.16 % 
-🌃 Evening                1238 commits        █████████░░░░░░░░░░░░░░░░   34.93 % 
-🌙 Night                  709 commits         █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Tuesday                  541 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Wednesday                500 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Friday                   593 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Saturday                 605 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Sunday                   542 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Vue                      3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Go                       2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-YAML                     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-SQL                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-
-🔥 Editors: 
-OpenCode                 6 hrs 2 mins        █████████████░░░░░░░░░░░░   51.40 % 
-Neovim                   5 hrs 43 mins       ████████████░░░░░░░░░░░░░   48.60 % 
-
-💻 Operating System: 
-Linux                    11 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
