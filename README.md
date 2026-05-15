@@ -53,5 +53,47 @@
 [![Top Langs](https://github-readme-stats.misshanya.ru/api/top-langs/?username=misshanya&layout=compact&theme=dracula)](#)
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+🌆 Daytime                1389 commits        ██████████░░░░░░░░░░░░░░░   39.16 % 
+🌃 Evening                1239 commits        █████████░░░░░░░░░░░░░░░░   34.93 % 
+🌙 Night                  709 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Tuesday                  541 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Wednesday                500 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Thursday                 318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Friday                   593 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Saturday                 605 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Sunday                   542 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Go                       2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+YAML                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+SQL                      1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Other                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Vue                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+
+🔥 Editors: 
+OpenCode                 4 hrs 38 mins       ███████████████░░░░░░░░░░   61.46 % 
+Neovim                   2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.39 % 
+GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+💻 Operating System: 
+Linux                    7 hrs 33 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
