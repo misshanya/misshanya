@@ -53,48 +53,5 @@
 [![Top Langs](https://github-readme-stats.misshanya.ru/api/top-langs/?username=misshanya&layout=compact&theme=dracula)](#)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                212 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-🌆 Daytime                1396 commits        ██████████░░░░░░░░░░░░░░░   39.15 % 
-🌃 Evening                1248 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
-🌙 Night                  710 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Tuesday                  545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Wednesday                502 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Friday                   594 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Saturday                 608 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Sunday                   548 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Bash                     2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.32 % 
-Go                       2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Nix                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-
-🔥 Editors: 
-Neovim                   4 hrs 3 mins        ███████████████░░░░░░░░░░   58.02 % 
-OpenCode                 2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
-Zed                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-GoLand                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-
-💻 Operating System: 
-Linux                    6 hrs 59 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
