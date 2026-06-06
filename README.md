@@ -53,46 +53,5 @@
 [![Top Langs](https://github-readme-stats.misshanya.ru/api/top-langs/?username=misshanya&layout=compact&theme=dracula)](#)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                212 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-🌆 Daytime                1424 commits        ██████████░░░░░░░░░░░░░░░   39.39 % 
-🌃 Evening                1254 commits        █████████░░░░░░░░░░░░░░░░   34.69 % 
-🌙 Night                  725 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Tuesday                  560 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Wednesday                506 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Thursday                 322 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Friday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Saturday                 609 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Sunday                   558 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Nix                      4 hrs 20 mins       ███████████████████░░░░░░   76.25 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Java                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-hyprlang                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-
-🔥 Editors: 
-Neovim                   4 hrs 33 mins       ████████████████████░░░░░   80.09 % 
-Zed                      1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-
-💻 Operating System: 
-Linux                    5 hrs 41 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
