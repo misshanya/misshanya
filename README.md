@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-- I’m a 16 y.o. student from Russia, passionate about **backend development**
+- I’m a 17 y.o. student from Russia, passionate about **backend development**
 - Love **Go**
 - Really love complex systems
 - K3s enjoyer
